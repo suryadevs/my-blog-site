@@ -1,0 +1,72 @@
+baseURL = 'https://driftingthoughts.pages.dev'
+locale = 'en-IN'
+title = 'my musings'
+theme = 'prav'
+
+# Optional. Supports {year}, e.g. "&copy; {year} Your Name"
+copyright = "© 2026 Harshal Suryawanshi. All rights reserved."
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[pagination]
+  pagerSize = 10
+
+# If you want to track using GA or use disqus for comments, uncomment the
+# following and add the correct values. GA is only included in production builds.
+# [services]
+#   [services.disqus]
+#     # shortname = ""
+#   [services.googleAnalytics]
+#     # ID = "G-XXXXXXXXXX"
+
+# The settings below are used throughout the theme.
+# Please update!
+[params]
+  title = "my musings - Harshal Suryawanshi"
+  tagline = "Personal Thoughts offloaded"
+  author = "Harshal Suryawanshi"
+  authorImgPath = "/img/author.jpg"
+  authorBlurb = "Figuring out life as I live it"
+  # Which sections appear on the home page, sidebar and RSS feed
+  mainSections = ["posts"]
+  # Tags need at least this many posts to show in the sidebar
+  sidebarTagMinCount = 2
+  # Colour scheme: "auto" follows the visitor's OS setting; "light" or "dark" forces one
+  defaultTheme = "auto"
+  # Show the light/dark toggle in the navbar
+  themeToggle = true
+
+  # If you do not want a social icon, just comment it out
+  # Please update the example values!
+  [params.social]
+    # email = "mailto:example@example.com"
+    mastodon = "https://mastodon.online/@driftingThoughts"
+    # bluesky = "https://bsky.app/profile/example.com"
+    github = "https://github.com/suryadevs"
+    # twitter = "https://x.com/example"
+    linkedin = "https://linkedin.com/in/harshal-suryawanshi-54b014396"
+    # medium = "https://medium.com/@example"
+    # facebook = "https://www.facebook.com/example"
+    # twitteruser = "@example"
+
+# Optional: replace the default Articles / Categories / About links
+# [[menus.main]]
+#   name = "Articles"
+#   pageRef = "/posts"
+#   weight = 10
+#   [menus.main.params]
+#     icon = "box-archive"
+
+[markup]
+  # The theme ships light and dark syntax colours, which need CSS classes
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.parser]
+    wrapStandAloneImageWithinParagraph = false
+  [markup.goldmark.parser.attribute]
+    block = true
+  # Allows raw HTML in markdown content and in markdownify'd descriptions.
+  [markup.goldmark.renderer]
+    unsafe = true

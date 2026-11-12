@@ -1,0 +1,41 @@
+{{ $p := . }}
+{{ $current := 1 }}
+
+{{ range $p.Pagers }}
+  {{ if eq .URL $p.URL }}
+    {{ $current = .PageNumber }}
+  {{ end }}
+{{ end }}
+
+{{ $start := sub $current 2 }}
+{{ if lt $start 1 }}{{ $start = 1 }}{{ end }}
+
+{{ $end := add $start 4 }}
+{{ if gt $end $p.TotalPages }}
+  {{ $end = $p.TotalPages }}
+  {{ $start = sub $end 4 }}
+  {{ if lt $start 1 }}{{ $start = 1 }}{{ end }}
+{{ end }}
+
+<nav class="pagination" aria-label="Pagination">
+  {{ if $p.HasPrev }}
+    <a href="{{ $p.First.URL }}" aria-label="First page" title="First page">«</a>
+    <a href="{{ $p.Prev.URL }}" aria-label="Previous page" title="Previous page">‹</a>
+  {{ end }}
+
+  {{ range $p.Pagers }}
+    {{ if and (ge .PageNumber $start) (le .PageNumber $end) }}
+      {{ if eq .PageNumber $current }}
+        <span aria-current="page">{{ .PageNumber }}</span>
+      {{ else }}
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $p.HasNext }}
+    <a href="{{ $p.Next.URL }}" aria-label="Next page" title="Next page">›</a>
+    <a href="{{ $p.Last.URL }}" aria-label="Last page" title="Last page">»</a>
+
+  {{ end }}
+</nav>

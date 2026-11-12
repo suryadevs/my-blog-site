@@ -1,0 +1,29 @@
+---
+title: "The Baba Bashing"
+date: 2017-08-26T13:56:00.003Z
+lastmod: 2017-08-26T13:56:45.116Z
+categories: [personal]
+tags: [
+    "article",
+    "religion",
+    "culture",
+    "english"
+]
+aliases:
+  - /2017/08/the-baba-bashing.html
+draft: false
+---
+
+The 'babas' and 'imams' and 'priests' who call themselves the incarnations of God or claim to speak His word, I always ignore them. The things they speak ring hollow in my ears. My brain is a pretty standard one and it doesn't like complicated things and elaborate 'truths'. It always tries to find a simpler explanation and that's why I just try to be a better person. That is enough for me rather than devoting myself to someone to feel closer to God. Being a better person is a huge task in itself, which will never be complete in one's lifetime. No matter which God you believe in or whether you believe in the concept of God in the first place, you still will be making a positive change just by keeping your moral compass pointing in the right direction. So whenever news of such pretenders getting booked for some crime appear in my news feed I just scroll on. After all someday they have to face the music. You can't fool everyone all the time.
+
+
+But then you get up in morning and you read the news of followers of these pretenders attacking the public places, railway stations, news crew, police and whatever they can lay their eyes on. Then you can't ignore these pretenders and their power and influence. A flash of anger goes through my brain, reading about the brazenness of these followers, their utter disregard for the law, property and people and more importantly the reason for their rampage. But the anger lasts only for a second, after that I just feel sad...sad about the fact that these people are so angry about the perceived offence to their 'God' that they become blind to the God among the people that they are beating up. They fail to see the God in the crying child caught up in this environment filled with violence. They even don't recognise the God that resides in the rape victim who got justice when the court convicted the pretender.
+
+
+One can argue that they believe that the court has delivered a wrong decision and that the pretender is innocent. But the court has no vested interest in declaring the pretender guilty. It has given its decision based on the proof and testimonies presented to it. And as we know the Indian justice system will mostly err on the side of caution. If there is a doubt about whether the accused is guilty or not he will almost always walk free. And even if you believe that you are wronged by the lower court you go the higher court. But the violence perpetuated due to your belief is not justifiable under any circumstance. What kind of a belief system is this where you are blind to everything else except your Godman. I can understand that people want to feel close to God, serve Him in some way. But then do exactly that. Why do you need these Godmen, these pretenders to feel close to God? You have your scriptures, you have your holy books, go and read them. at least you will learn more about your religion, your God. You want to serve God, serve the people in need instead of serving at the feet of these crooks.
+
+
+One source of this problem that I can see is that in this fast world we want instant results. Who is going to come home from work and read those big religious volumes. It's better to buy a 10000 rs ticket to get a darshan of xyz baba and tell him our problem. He will suggest a simple solution to go to xyz shrine or ask to eat rasagulla everyday for a month. It's an instant solution to the problem. By some co-incidence if the said solution really makes a difference people start to blindly trust the words coming out of the baba's mouth. No matter how learned you are, people will keep their brains locked somewhere deep in darkness, and follow the idiotic things that the baba says. They will sway to the chants in the gathering, they will flock to theatres to watch his movie no matter whether it makes sense or not and finally if the need arises they will take weapons in their hands to protect the honour of their 'God'. Anyway no one has said that rational thinking and education must go hand in hand. We might be top engineers and executives, but when it comes to these babas, we are no more rational than a chimpanzee. More than anger at these pretenders commanding such power by exploiting the sentiments of people, I feel saddened and pity for the people who have become followers of these stupid people. It's not that these babas are very intelligent or they are master strategists to influence masses, but it's just that people behave idiotically when it comes to matters of faith. That is why some clerics and mullahs are able to convince muslim youth to go wage jihad against the infidels, that is why a decision against the Dera Sacha Sauda leader Gurmeet Ram Rahim leads to death of 31 people, that's why when police come to arrest Asaram Bapu they face a wall of people ready to die for him.
+
+
+Stating problems and discussing them is an easy thing to do. But finding the solution is the real 'problem'. In this case, I think it's not that complicated. All we have to do is think rationally, whatever is being said by anyone try to weigh it on the scale of rationality. Yes things pertaining to religion, faith and God are usually thousands of years old but if a thing is good and true it will always pass the test of rationality even in the present times. I am not a very religious person nor am I an expert in religious studies or any other subject for that matter. But no matter which religion you follow or which God you believe in, I am sure that the ultimate goal of all of them is to make you a better human being. But hey don't just blindly read this and agree/disagree with it, otherwise I am no better than those idiots who fool people...
