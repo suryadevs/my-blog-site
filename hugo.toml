@@ -2,7 +2,7 @@ baseURL = 'https://driftingthoughts.pages.dev'
 locale = 'en-IN'
 title = 'my musings'
 theme = 'prav'
-
+summaryLength = 35
 # Optional. Supports {year}, e.g. "&copy; {year} Your Name"
 copyright = "© 2026 Harshal Suryawanshi. All rights reserved."
 
