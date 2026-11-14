@@ -35,7 +35,7 @@ I would like to point two contrasts that I experienced during my journey. When I
 Swami Vivekananda believed that for Indians to realize the glory of their religion, they must first be uplifted from poverty. Only when a person has his basic needs fulfilled can he find the time and will to ponder on religion. Today majority of people who visit pilgrimage sites have all that and some more yet we see that they are more irresponsible and disrespecting than the previous generation. Even if you don’t believe in religion, God, you at least (I hope) have the common sense of not polluting the river, not littering the temples. It's time that our generation rises up to the occasion and takes the mantle of restoring our heritage, our temples, our holy place to their spiritual glory.    
 
 
-> Let them be a place of knowledge and realization \
-> Let them be a place which connects us with our civilization \
-> Let them be a place where we find things that we miss \
+> Let them be a place of knowledge and realization
+> Let them be a place which connects us with our civilization
+> Let them be a place where we find things that we miss
 > Let them be a place where one can find serenity and peace

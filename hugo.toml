@@ -25,7 +25,7 @@ category = "categories"
 # Please update!
 [params]
   title = "my musings - Harshal Suryawanshi"
-  tagline = "Personal Thoughts offloaded"
+  tagline = "Personal thoughts offloaded"
   author = "Harshal Suryawanshi"
   authorImgPath = "/img/author.jpg"
   authorBlurb = "Figuring out life as I live it"
@@ -92,3 +92,4 @@ category = "categories"
   # Allows raw HTML in markdown content and in markdownify'd descriptions.
   [markup.goldmark.renderer]
     unsafe = true
+    hardWraps = true
